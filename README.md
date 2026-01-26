@@ -7,6 +7,44 @@ All functionality runs locally and completes in under half a second on modern ha
 
 primer-designer is a C++ program for designing PCR primers for common molecular biology workflows, including gene cloning, site-directed mutagenesis, and insertion of genes into plasmid vectors. The program operates entirely locally and parses standard FASTA sequence files along with JSON-formatted restriction enzyme libraries. Primer candidates are generated and filtered using standard design constraints, including length, melting temperature (calculated using both the Wallace rule and the SantaLucia (2004) nearest-neighbor model), GC content, GC clamps, and assessments of secondary structure such as hairpins and primer dimerization. For gene insertion workflows, the program supports restriction-enzyme-based and Golden Gate assembly strategies, allows user-specified tags, protease sites, linkers, and spacers, and produces both linear restriction maps and circular plasmid maps in SVG format.
 
+## Supported Workflows
+
+### A) Gene cloning primer generation
+**Input:**
+- Gene sequence (.fasta)
+  
+**Output:**
+- Text file containing a list of viable forward and reverse primers for cloning (cloning_primers<N>.txt)
+
+### B) Site-directed mutagenesis primer generation
+**Input:**
+- Gene sequence (.fasta)
+- Mutation specified in HGVS notation (e.g. c.20_21insT)
+
+**Output:**
+- Mutagenic primer pairs suitable for PCR-based mutagenesis (mutagenic_primers<N>.txt)
+- FASTA file of the mutated gene sequence (mutated_gene<N>.fasta)
+
+### C) Gene insertion into a vector
+**Input:**
+- Gene sequence (.fasta)
+- Vector sequence (.fasta)
+- Restriction enzyme JSON file (already provided in data/RE_sites1.json.)
+  - If you would like to utilize a different list of restriction enzymes use my repo restriction_enzyme_json to generate a new json file.
+- User-specified design options (entered interactively via command line)
+  - Choice of two restriction enzymes
+  - Start and stop codons
+  - N- and/or C-terminal tags (Built-in support: His6, FLAG, HA, Myc. Custom tags supported)
+  - Protease cleavage sites (Built-in support: TEV, PreScission, Factor Xa, Enterokinase. Custom proteases supported)
+  - Flexible linkers
+  - Spacers (if necessary to maintain reading frame)
+
+**Output:**
+- Viable restriction enzyme combinations (viable_restriction_enzymes<N>.txt)
+- Linear restriction map (linear_map<N>.txt)
+- Circular plasmid map (circular_map<N>.svg)
+- Primer pairs for gene insertion (gene_insertion_primers<N>.txt)
+
 ## Getting Started
 
 ### Requirements:
