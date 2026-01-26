@@ -71,7 +71,7 @@ g++ -std=c++17 -O2 -o primer-designer src/*.cpp
 Compiler flags and source paths may be adjusted as needed for a given system.
 
 ### Executing program
-The program is executed from the command line and operates interactively. Upon launch, the user is prompted to select a workflow and provide the required inputs, such as sequence files, mutation notation, restriction enzymes, and optional design features.
+The program is executed from the command line and operates interactively. Upon launch, the user is prompted to select a workflow and provide the required inputs, such as sequence file names, desired mutations, restriction enzymes, and optional design features. All .fasta and .json files must be placed in the data/ directory prior to use. 
 
 Example input files are provided in the data/ directory:
 ```
