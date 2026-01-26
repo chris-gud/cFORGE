@@ -38,16 +38,33 @@ Compiler flags and source paths may be adjusted as needed for a given system.
 The program is executed from the command line and operates interactively. Upon launch, the user is prompted to select a workflow and provide the required inputs, such as sequence files, mutation notation, restriction enzymes, and optional design features.
 
 Example input files are provided in the data/ directory:
+```
 data/
 ├── gene_example.fasta
 ├── vector_example.fasta
 └── RE_sites1.json
+```
 
 All output files are written to an output/ directory, which is created automatically if it does not already exist.
 
+Example output files are provided in the examples/ directory:
+```
+examples/
+├── cloning/
+│   └── cloning_primers_example.txt
+├── mutagenesis/
+│   ├── mutagenic_primers_example.txt
+│   └── mutated_gene_example.fasta
+└── gene_insertion/
+    ├── viable_restriction_enzymes_example.txt
+    ├── linear_map_example.txt
+    ├── circular_map_example.svg
+    └── gene_insertion_primers_example.txt
+```
+
 ## Help
 
- 
+
 
 ## Author
 Chris Gudmundsen
