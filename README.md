@@ -63,8 +63,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-* [List of Restriction Enzymes]([https://github.com/matiassingers/awesome-readme](https://www.neb.com/en-us/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities?srsltid=AfmBOoq1oCQpVC6wqJB95uRrPSvQ2ZoTNOgDpfQwhZbR6AzKesP7TrVq))
-* [Example Gene (LacI)]([https://www.ncbi.nlm.nih.gov/nuccore/671183183])
-* [Example Vector (pAAV-AC-Myc-DDK AAV Expression Vector)]([https://gist.github.com/PurpleBooth/109311bb0361f32d87a2](https://www.origene.com/catalog/vectors/aav-gene-expression-vectors/ps100089-paav-ac-myc-ddk-aav-gene-expression-vector))
-* [SantaLucia 2004 Method]([https://github.com/dbader/readme-template](https://pubmed.ncbi.nlm.nih.gov/15139820/))
-* [Mutation Notation]([https://gist.github.com/zenorocha/4526327](https://atlasgeneticsoncology.org/teaching/30067/nomenclature-for-the-description-of-mutations-and-other-sequence-variations#section-2))
+* [List of Restriction Enzymes](https://www.neb.com/en-us/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities?srsltid=AfmBOoq1oCQpVC6wqJB95uRrPSvQ2ZoTNOgDpfQwhZbR6AzKesP7TrVq)
+* [Example Gene (LacI)](https://www.ncbi.nlm.nih.gov/nuccore/671183183)
+* [Example Vector (pAAV-AC-Myc-DDK AAV Expression Vector)](https://www.origene.com/catalog/vectors/aav-gene-expression-vectors/ps100089-paav-ac-myc-ddk-aav-gene-expression-vector)
+* [SantaLucia 2004 Method](https://pubmed.ncbi.nlm.nih.gov/15139820/)
+* [Mutation Notation](https://atlasgeneticsoncology.org/teaching/30067/nomenclature-for-the-description-of-mutations-and-other-sequence-variations#section-2)
