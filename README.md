@@ -1,5 +1,5 @@
 # Primer Designer
-Open-source C++ command-line tool for designing PCR primers for gene cloning, site-directed mutagenesis, and vector insertion, with automated primer quality checks and plasmid map generation.  
+Open-source C++ command-line tool for designing PCR primers for gene cloning, site-directed mutagenesis, and vector insertion, with automated primer quality checks and plasmid map graphic generation.  
 
 All functionality runs locally and completes in under half a second on modern hardware (e.g. Apple Silicon).
 
@@ -106,6 +106,7 @@ examples/
 
 ## Author
 Chris Gudmundsen
+2026
 
 ## Version History
 
