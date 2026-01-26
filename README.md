@@ -9,15 +9,15 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 
 ### A) Gene cloning primer generation
 **Input:**
-- Gene sequence (.fasta)
+- Gene sequence (as .fasta file in data/ directory)
   
 **Output:**
 - Text file containing a list of viable forward and reverse primers for cloning (cloning_primers<N>.txt)
 
 ### B) Site-directed mutagenesis primer generation
 **Input:**
-- Gene sequence (.fasta)
-- Mutation specified in HGVS notation (e.g. c.20_21insT)
+- Gene sequence (as .fasta file in data/ directory)
+- Mutation specified in HGVS notation (e.g. c.20_21insT) (entered interactively via command line)
 
 **Output:**
 - Mutagenic primer pairs suitable for PCR-based mutagenesis (mutagenic_primers<N>.txt)
@@ -25,10 +25,10 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 
 ### C) Gene insertion into a vector
 **Input:**
-- Gene sequence (.fasta)
-- Vector sequence (.fasta)
-- Restriction enzyme JSON file (already provided in data/RE_sites1.json.)
-  - If you would like to utilize a different list of restriction enzymes use my repo restriction_enzyme_json to generate a new json file.
+- Gene sequence (as .fasta file in data/ directory)
+- Vector sequence (as .fasta file in data/ directory)
+- Restriction enzyme JSON file (already provided in data/RE_sites1.json)
+  - If you would like to utilize a different list of restriction enzymes, use my repo restriction_enzyme_json to generate a new json file.
 - User-specified design options (entered interactively via command line)
   - Choice of two restriction enzymes
   - Start and stop codons
