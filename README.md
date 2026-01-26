@@ -17,8 +17,10 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 
 ### Obtaining the source code:
 Clone the repository from GitHub:
-git clone https://github.com/<username>/primer-designer.git
+```
+git clone https://github.com/chris-gud/primer-designer.git
 cd primer-designer
+```
 
 ### Building:
 The program is written in standard C++ and can be built using Xcode or a command-line compiler.
