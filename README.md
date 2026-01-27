@@ -13,16 +13,16 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
   
 **Output:**
 - Text file containing a list of viable forward and reverse primers for cloning (cloning_primers<N>.txt)
------
+---
 ### B) Generate mutagenic primers for site-directed mutagenesis by PCR
 **Input:**
 - Gene sequence (as .fasta file in data/ directory)
-- Mutation specified in HGVS notation (e.g. c.120_121insT, c.86_91del, c.345C>T) (entered interactively via command line)
+- Mutation specified in HGVS notation (e.g. c.120_121insT, c.86_91del, c.345C>T, c.100_110dup) (entered interactively via command line)
 
 **Output:**
 - Mutagenic primer pairs suitable for PCR-based mutagenesis (mutagenic_primers<N>.txt)
 - FASTA file of the mutated gene sequence (mutated_gene<N>.fasta)
------
+---
 ### C) Generate primers for insertion of a gene into a vector
 **Input:**
 - Gene sequence (as .fasta file in data/ directory)
@@ -42,7 +42,7 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 - Linear restriction map (linear_map<N>.txt)
 - Circular plasmid map (circular_map<N>.svg)
 - Primer pairs for gene insertion (gene_insertion_primers<N>.txt)
------
+---
 ### D) Check for dimerization between two primers
  _* For use after generating and selecting viable primers using functions A-C._
  
@@ -51,7 +51,7 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 
 **Output:**
 - Answer to whether 2 primers heterodimerize (command line output)
------
+---
 ### E) Generate the reverse complement of a sequence
  _* For general molecular biology usage._
  
