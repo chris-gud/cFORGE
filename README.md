@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-* [List of Restriction Enzymes](https://www.neb.com/en-us/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities?srsltid=AfmBOoq1oCQpVC6wqJB95uRrPSvQ2ZoTNOgDpfQwhZbR6AzKesP7TrVq)
+* [List of Restriction Enzymes](https://www.neb.com/en-us/tools-and-resources/selection-charts/alphabetized-list-of-recognition-specificities)
 * [Example Gene (LacI)](https://www.ncbi.nlm.nih.gov/nuccore/671183183)
 * [Example Vector (pAAV-AC-Myc-DDK AAV Expression Vector)](https://www.origene.com/catalog/vectors/aav-gene-expression-vectors/ps100089-paav-ac-myc-ddk-aav-gene-expression-vector)
 * [SantaLucia 2004 Method](https://pubmed.ncbi.nlm.nih.gov/15139820/)
