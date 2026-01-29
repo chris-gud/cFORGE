@@ -67,6 +67,10 @@ All functionality runs locally and completes in under half a second on modern ha
 **Output:**
 - Reverse complement of input sequence (command line output)
 
+## Example Workflow
+### Example interactive command-line workflow (gene insertion) showing input selection and design prompts
+<img width="969" height="904" alt="Image" src="https://github.com/user-attachments/assets/50b345a3-86e2-4007-ae85-0e3eaf0757e8" />
+
 ## Example Output
 
 ### Example circular plasmid map output from the gene insertion workflow
