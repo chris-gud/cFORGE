@@ -1,0 +1,174 @@
+ - VIABLE RESTRICTION ENZYMES FOR GENE INSERTION -
+
+(i.e. restriction enzymes that cut the vector ONCE but do NOT cut the gene)
+Gene file: gene_example.fasta
+Vector file: vector_example.fasta
+
+--------------------------------------------------------------
+Restriction Enzyme Name: AleI-v2  |  Notated Sequence: CACNN/NNGTG
+Forward Sequence: CACNNNNGTG  |  Reverse Complement: CACNNNNGTG
+Top Cuts: 5   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1553  |  Revcomp sequence index: 1553
+--------------------------------------------------------------
+Restriction Enzyme Name: AscI  |  Notated Sequence: GG/CGCGCC
+Forward Sequence: GGCGCGCC  |  Reverse Complement: GGCGCGCC
+Top Cuts: 2   |  Bottom Cuts: 6 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1348  |  Revcomp sequence index: 1348
+--------------------------------------------------------------
+Restriction Enzyme Name: AsiSI  |  Notated Sequence: GCGAT/CGC
+Forward Sequence: GCGATCGC  |  Reverse Complement: GCGATCGC
+Top Cuts: 5   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1339  |  Revcomp sequence index: 1339
+--------------------------------------------------------------
+Restriction Enzyme Name: BmtI-HF  |  Notated Sequence: GCTAG/C
+Forward Sequence: GCTAGC  |  Reverse Complement: GCTAGC
+Top Cuts: 5   |  Bottom Cuts: 1 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1374  |  Revcomp sequence index: 1374
+--------------------------------------------------------------
+Restriction Enzyme Name: BsaBI  |  Notated Sequence: GATNN/NNATC
+Forward Sequence: GATNNNNATC  |  Reverse Complement: GATNNNNATC
+Top Cuts: 5   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 812  |  Revcomp sequence index: 812
+--------------------------------------------------------------
+Restriction Enzyme Name: BsiWI-HF BsiWI  |  Notated Sequence: C/GTACG
+Forward Sequence: CGTACG  |  Reverse Complement: CGTACG
+Top Cuts: 1   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1389  |  Revcomp sequence index: 1389
+--------------------------------------------------------------
+Restriction Enzyme Name: BspDI ClaI  |  Notated Sequence: AT/CGAT
+Forward Sequence: ATCGAT  |  Reverse Complement: ATCGAT
+Top Cuts: 2   |  Bottom Cuts: 4 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1315  |  Revcomp sequence index: 1315
+--------------------------------------------------------------
+Restriction Enzyme Name: DraIII-HF  |  Notated Sequence: CACNNN/GTG
+Forward Sequence: CACNNNGTG  |  Reverse Complement: CACNNNGTG
+Top Cuts: 6   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 2459  |  Revcomp sequence index: 2459
+--------------------------------------------------------------
+Restriction Enzyme Name: EcoRV-HF EcoRV  |  Notated Sequence: GAT/ATC
+Forward Sequence: GATATC  |  Reverse Complement: GATATC
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1443  |  Revcomp sequence index: 1443
+--------------------------------------------------------------
+Restriction Enzyme Name: FseI  |  Notated Sequence: GGCCGG/CC
+Forward Sequence: GGCCGGCC  |  Reverse Complement: GGCCGGCC
+Top Cuts: 6   |  Bottom Cuts: 2 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1484  |  Revcomp sequence index: 1484
+--------------------------------------------------------------
+Restriction Enzyme Name: FspI  |  Notated Sequence: TGC/GCA
+Forward Sequence: TGCGCA  |  Reverse Complement: TGCGCA
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 3635  |  Revcomp sequence index: 3635
+--------------------------------------------------------------
+Restriction Enzyme Name: HindIII HindIII-HF  |  Notated Sequence: A/AGCTT
+Forward Sequence: AAGCTT  |  Reverse Complement: AAGCTT
+Top Cuts: 1   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1363  |  Revcomp sequence index: 1363
+--------------------------------------------------------------
+Restriction Enzyme Name: MluI-HF  |  Notated Sequence: A/CGCGT
+Forward Sequence: ACGCGT  |  Reverse Complement: ACGCGT
+Top Cuts: 1   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1386  |  Revcomp sequence index: 1386
+--------------------------------------------------------------
+Restriction Enzyme Name: NdeI  |  Notated Sequence: CA/TATG
+Forward Sequence: CATATG  |  Reverse Complement: CATATG
+Top Cuts: 2   |  Bottom Cuts: 4 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 388  |  Revcomp sequence index: 388
+--------------------------------------------------------------
+Restriction Enzyme Name: NheI-HF  |  Notated Sequence: G/CTAGC
+Forward Sequence: GCTAGC  |  Reverse Complement: GCTAGC
+Top Cuts: 1   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1374  |  Revcomp sequence index: 1374
+--------------------------------------------------------------
+Restriction Enzyme Name: NsiI NsiI-HF  |  Notated Sequence: ATGCA/T
+Forward Sequence: ATGCAT  |  Reverse Complement: ATGCAT
+Top Cuts: 5   |  Bottom Cuts: 1 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1814  |  Revcomp sequence index: 1814
+--------------------------------------------------------------
+Restriction Enzyme Name: PciI  |  Notated Sequence: A/CATGT
+Forward Sequence: ACATGT  |  Reverse Complement: ACATGT
+Top Cuts: 1   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 4748  |  Revcomp sequence index: 4748
+--------------------------------------------------------------
+Restriction Enzyme Name: PmeI  |  Notated Sequence: GTTT/AAAC
+Forward Sequence: GTTTAAAC  |  Reverse Complement: GTTTAAAC
+Top Cuts: 4   |  Bottom Cuts: 4 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1476  |  Revcomp sequence index: 1476
+--------------------------------------------------------------
+Restriction Enzyme Name: PmlI  |  Notated Sequence: CAC/GTG
+Forward Sequence: CACGTG  |  Reverse Complement: CACGTG
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1994  |  Revcomp sequence index: 1994
+--------------------------------------------------------------
+Restriction Enzyme Name: PsiI-v2  |  Notated Sequence: TTA/TAA
+Forward Sequence: TTATAA  |  Reverse Complement: TTATAA
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 2587  |  Revcomp sequence index: 2587
+--------------------------------------------------------------
+Restriction Enzyme Name: ScaI-HF  |  Notated Sequence: AGT/ACT
+Forward Sequence: AGTACT  |  Reverse Complement: AGTACT
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 3377  |  Revcomp sequence index: 3377
+--------------------------------------------------------------
+Restriction Enzyme Name: SnaBI  |  Notated Sequence: TAC/GTA
+Forward Sequence: TACGTA  |  Reverse Complement: TACGTA
+Top Cuts: 3   |  Bottom Cuts: 3 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 493  |  Revcomp sequence index: 493
+--------------------------------------------------------------
+Restriction Enzyme Name: SphI-HF SphI  |  Notated Sequence: GCATG/C
+Forward Sequence: GCATGC  |  Reverse Complement: GCATGC
+Top Cuts: 5   |  Bottom Cuts: 1 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 1812  |  Revcomp sequence index: 1812
+--------------------------------------------------------------
+Restriction Enzyme Name: XmnI  |  Notated Sequence: GAANN/NNTTC
+Forward Sequence: GAANNNNTTC  |  Reverse Complement: GAANNNNTTC
+Top Cuts: 5   |  Bottom Cuts: 5 
+Forward cuts vector: YES  |  Revcomp cuts vector: YES
+Forward cuts gene: NO  |  Revcomp cuts gene: NO
+Forward sequence index: 3256  |  Revcomp sequence index: 3256

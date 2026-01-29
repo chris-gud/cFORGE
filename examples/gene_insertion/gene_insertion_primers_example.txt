@@ -1,0 +1,136 @@
+ - VIABLE PRIMERS FOR GENE INSERTION INTO VECTOR -
+
+Gene source file: gene_example.fasta
+Vector source file: vector_example.fasta
+
+5' Restriction enzyme: AscI (GG/CGCGCC)
+3' Restriction enzyme Name: BmtI-HF (GCTAG/C)
+
+|--------------------------------------------|
+| Viable FORWARD Primers for gene insertion: |
+|--------------------------------------------|
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGTACGGCGCGCCCATCACCATCACCATCACGAAAACCTGTATTTTCAGAGCTAAATGATGAAGCCGGTGACCCTCTACG -3'
+                                  |Clamp||RE1   ||Tag             ||Protease              ||>||Annealing            |
+                       Length: 81 n.t.
+         Wallace Melting Temp: 70°C
+      SantaLucia Melting Temp: 55.0°C
+ GC Content of Binding Region: 59.0%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGTACGGCGCGCCCATCACCATCACCATCACGAAAACCTGTATTTTCAGAGCTAAATGATGAAGCCGGTGACCCTCTACGA -3'
+                                  |Clamp||RE1   ||Tag             ||Protease              ||>||Annealing             |
+                       Length: 82 n.t.
+         Wallace Melting Temp: 72°C
+      SantaLucia Melting Temp: 56.3°C
+ GC Content of Binding Region: 56.5%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGTACGGCGCGCCCATCACCATCACCATCACGAAAACCTGTATTTTCAGAGCTAAATGATGAAGCCGGTGACCCTCTACGAC -3'
+                                  |Clamp||RE1   ||Tag             ||Protease              ||>||Annealing              |
+                       Length: 83 n.t.
+         Wallace Melting Temp: 76°C
+      SantaLucia Melting Temp: 56.8°C
+ GC Content of Binding Region: 58.3%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGTACGGCGCGCCCATCACCATCACCATCACGAAAACCTGTATTTTCAGAGCTAAATGATGAAGCCGGTGACCCTCTACGACG -3'
+                                  |Clamp||RE1   ||Tag             ||Protease              ||>||Annealing               |
+                       Length: 84 n.t.
+         Wallace Melting Temp: 80°C
+      SantaLucia Melting Temp: 58.7°C
+ GC Content of Binding Region: 60.0%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+
+
+|--------------------------------------------|
+| Viable REVERSE Primers for gene insertion: |
+|--------------------------------------------|
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGC -3'
+                                  |Clamp||RE2 ||*||Annealing          |
+                       Length: 35 n.t.
+         Wallace Melting Temp: 66°C
+      SantaLucia Melting Temp: 55.1°C
+ GC Content of Binding Region: 64.9%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGCG -3'
+                                  |Clamp||RE2 ||*||Annealing           |
+                       Length: 36 n.t.
+         Wallace Melting Temp: 70°C
+      SantaLucia Melting Temp: 57.4°C
+ GC Content of Binding Region: 66.6%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGCGG -3'
+                                  |Clamp||RE2 ||*||Annealing            |
+                       Length: 37 n.t.
+         Wallace Melting Temp: 74°C
+      SantaLucia Melting Temp: 59.4°C
+ GC Content of Binding Region: 68.1%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGCGGG -3'
+                                  |Clamp||RE2 ||*||Annealing             |
+                       Length: 38 n.t.
+         Wallace Melting Temp: 78°C
+      SantaLucia Melting Temp: 61.2°C
+ GC Content of Binding Region: 69.5%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGCGGGA -3'
+                                  |Clamp||RE2 ||*||Annealing              |
+                       Length: 39 n.t.
+         Wallace Melting Temp: 80°C
+      SantaLucia Melting Temp: 62.2°C
+ GC Content of Binding Region: 66.6%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GTACGCGCTAGCTCATTACTGGCCGGACTCGAGGCGGGAG -3'
+                                  |Clamp||RE2 ||*||Annealing               |
+                       Length: 40 n.t.
+         Wallace Melting Temp: 84°C
+      SantaLucia Melting Temp: 62.3°C
+ GC Content of Binding Region: 68.0%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 3 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------

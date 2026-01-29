@@ -1,0 +1,115 @@
+ - VIABLE PRIMERS FOR SITE DIRECTED MUTAGENESIS BY PCR -
+
+Gene source file: gene_example.fasta
+Mutation: c.115G>T
+
+
+|---------------------------------------------|
+| Viable FORWARD Primers for PCR mutagenesis: |
+|---------------------------------------------|
+----------------------------------------------------------------------
+              Primer Sequence: 5'- CGAGAAGGTGtAGGCCGCGAT -3'
+                       Length: 21 n.t.
+         Wallace Melting Temp: 66°C
+      SantaLucia Melting Temp: 55.7°C
+ GC Content of Binding Region: 64.9%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- CGAGAAGGTGtAGGCCGCGATG -3'
+                       Length: 22 n.t.
+         Wallace Melting Temp: 70°C
+      SantaLucia Melting Temp: 56.3°C
+ GC Content of Binding Region: 66.6%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGAGAAGGTGtAGGCCGCGATG -3'
+                       Length: 23 n.t.
+         Wallace Melting Temp: 74°C
+      SantaLucia Melting Temp: 58.7°C
+ GC Content of Binding Region: 68.1%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- GCGAGAAGGTGtAGGCCGCGATGG -3'
+                       Length: 24 n.t.
+         Wallace Melting Temp: 78°C
+      SantaLucia Melting Temp: 60.5°C
+ GC Content of Binding Region: 69.5%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+
+
+|---------------------------------------------|
+| Viable REVERSE Primers for PCR mutagenesis: |
+|---------------------------------------------|
+----------------------------------------------------------------------
+              Primer Sequence: 5'- ATCGCGGCCTaCACCTTCTCG -3'
+                       Length: 21 n.t.
+         Wallace Melting Temp: 66°C
+      SantaLucia Melting Temp: 55.7°C
+ GC Content of Binding Region: 64.9%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- CATCGCGGCCTaCACCTTCTCG -3'
+                       Length: 22 n.t.
+         Wallace Melting Temp: 70°C
+      SantaLucia Melting Temp: 56.3°C
+ GC Content of Binding Region: 66.6%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- CATCGCGGCCTaCACCTTCTCGC -3'
+                       Length: 23 n.t.
+         Wallace Melting Temp: 74°C
+      SantaLucia Melting Temp: 58.7°C
+ GC Content of Binding Region: 68.1%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+              Primer Sequence: 5'- CCATCGCGGCCTaCACCTTCTCGC -3'
+                       Length: 24 n.t.
+         Wallace Melting Temp: 78°C
+      SantaLucia Melting Temp: 60.5°C
+ GC Content of Binding Region: 69.5%
+                     GC Clamp: YES
+             Homodimerization: NO
+       Homopolymer Run Length: 2 n.t.
+             Forms Hairpin(s): NO
+----------------------------------------------------------------------
+
+
+|-------------------------|
+| Original Gene Sequence: |
+|-------------------------|
+Length : 1083
+ATGAAGCCGGTGACCCTCTACGACGTGGCGGAGTACGCGGGCGTGTCCTACCAGACCGTCTCGCGGGTGGTGAACCAGGCCTCGCACGTCTCCGCCAAGACCCGCGAGAAGGTGGAGGCCGCGATGGCCGAGCTGAACTACATCCCGAACCGGGTCGCGCAGCAGCTGGCCGGCAAGCAGTCCCTGCTCATCGGCGTGGCCACCTCCTCGCTGGCCCTCCACGCGCCCTCCCAGATCGTCGCCGCGATCAAGTCGCGCGCGGACCAGCTGGGCGCCAGCGTCGTGGTCTCCATGGTGGAGCGGAGCGGCGTCGAGGCGTGCAAGGCCGCGGTCCACAACCTGCTCGCCCAGCGCGTGTCGGGCCTGATCATCAACTACCCGCTCGACGACCAGGACGCCATCGCGGTGGAGGCCGCGTGCACCAACGTCCCGGCCCTGTTCCTCGACGTGTCCGACCAGACCCCCATCAACTCGATCATCTTCAGCCACGAGGACGGCACCCGGCTGGGCGTGGAGCACCTGGTCGCCCTCGGCCACCAGCAGATCGCCCTGCTCGCGGGCCCGCTGAGCTCCGTCTCCGCGCGCCTGCGGCTCGCCGGCTGGCACAAGTACCTGACCCGCAACCAGATCCAGCCCATCGCGGAGCGGGAGGGCGACTGGTCCGCCATGTCGGGCTTCCAGCAGACCATGCAGATGCTGAACGAGGGCATCGTGCCGACCGCGATGCTGGTCGCCAACGACCAGATGGCCCTCGGCGCGATGCGCGCCATCACCGAGTCGGGCCTGCGGGTCGGCGCCGACATCAGCGTGGTCGGCTACGACGACACCGAGGACTCGAGCTGCTACATCCCGCCCCTGACCACCATCAAGCAGGACTTCCGCCTGCTCGGCCAGACCAGCGTCGACCGGCTGCTCCAGCTGTCCCAGGGCCAGGCCGTGAAGGGCAACCAGCTGCTCCCCGTGTCCCTGGTCAAGCGCAAGACCACCCTCGCGCCGAACACCCAGACCGCCTCGCCCCGGGCCCTCGCCGACAGCCTCATGCAGCTCGCCCGCCAGGTCTCCCGCCTCGAGTCCGGCCAGTAA
+
+|-------------------------|
+| Mutated Gene Sequence:  |
+|-------------------------|
+Length : 1083
+ATGAAGCCGGTGACCCTCTACGACGTGGCGGAGTACGCGGGCGTGTCCTACCAGACCGTCTCGCGGGTGGTGAACCAGGCCTCGCACGTCTCCGCCAAGACCCGCGAGAAGGTGtAGGCCGCGATGGCCGAGCTGAACTACATCCCGAACCGGGTCGCGCAGCAGCTGGCCGGCAAGCAGTCCCTGCTCATCGGCGTGGCCACCTCCTCGCTGGCCCTCCACGCGCCCTCCCAGATCGTCGCCGCGATCAAGTCGCGCGCGGACCAGCTGGGCGCCAGCGTCGTGGTCTCCATGGTGGAGCGGAGCGGCGTCGAGGCGTGCAAGGCCGCGGTCCACAACCTGCTCGCCCAGCGCGTGTCGGGCCTGATCATCAACTACCCGCTCGACGACCAGGACGCCATCGCGGTGGAGGCCGCGTGCACCAACGTCCCGGCCCTGTTCCTCGACGTGTCCGACCAGACCCCCATCAACTCGATCATCTTCAGCCACGAGGACGGCACCCGGCTGGGCGTGGAGCACCTGGTCGCCCTCGGCCACCAGCAGATCGCCCTGCTCGCGGGCCCGCTGAGCTCCGTCTCCGCGCGCCTGCGGCTCGCCGGCTGGCACAAGTACCTGACCCGCAACCAGATCCAGCCCATCGCGGAGCGGGAGGGCGACTGGTCCGCCATGTCGGGCTTCCAGCAGACCATGCAGATGCTGAACGAGGGCATCGTGCCGACCGCGATGCTGGTCGCCAACGACCAGATGGCCCTCGGCGCGATGCGCGCCATCACCGAGTCGGGCCTGCGGGTCGGCGCCGACATCAGCGTGGTCGGCTACGACGACACCGAGGACTCGAGCTGCTACATCCCGCCCCTGACCACCATCAAGCAGGACTTCCGCCTGCTCGGCCAGACCAGCGTCGACCGGCTGCTCCAGCTGTCCCAGGGCCAGGCCGTGAAGGGCAACCAGCTGCTCCCCGTGTCCCTGGTCAAGCGCAAGACCACCCTCGCGCCGAACACCCAGACCGCCTCGCCCCGGGCCCTCGCCGACAGCCTCATGCAGCTCGCCCGCCAGGTCTCCCGCCTCGAGTCCGGCCAGTAA

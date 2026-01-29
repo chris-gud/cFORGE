@@ -1,0 +1,122 @@
+ - VIABLE PRIMERS FOR GENE CLONING -
+
+Gene source file: gene_example.fasta
+
+|------------------------------------------|
+| Viable FORWARD Primers for gene cloning: |
+|------------------------------------------|
+----------------------------------------------------------------------
+        Primer Sequence: 5'- ATGAAGCCGGTGACCCTCTACG -3'
+                 Length: 22 n.t.
+   Wallace Melting Temp: 70°C
+SantaLucia Melting Temp: 55.0°C
+             GC Content: 59.0%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- ATGAAGCCGGTGACCCTCTACGA -3'
+                 Length: 23 n.t.
+   Wallace Melting Temp: 72°C
+SantaLucia Melting Temp: 56.3°C
+             GC Content: 56.5%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- ATGAAGCCGGTGACCCTCTACGAC -3'
+                 Length: 24 n.t.
+   Wallace Melting Temp: 76°C
+SantaLucia Melting Temp: 56.8°C
+             GC Content: 58.3%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- ATGAAGCCGGTGACCCTCTACGACG -3'
+                 Length: 25 n.t.
+   Wallace Melting Temp: 80°C
+SantaLucia Melting Temp: 58.7°C
+             GC Content: 60.0%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+
+
+|------------------------------------------|
+| Viable REVERSE Primers for gene cloning: |
+|------------------------------------------|
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGC -3'
+                 Length: 20 n.t.
+   Wallace Melting Temp: 66°C
+SantaLucia Melting Temp: 55.1°C
+             GC Content: 64.9%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 2 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGCG -3'
+                 Length: 21 n.t.
+   Wallace Melting Temp: 70°C
+SantaLucia Melting Temp: 57.4°C
+             GC Content: 66.6%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 2 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGCGG -3'
+                 Length: 22 n.t.
+   Wallace Melting Temp: 74°C
+SantaLucia Melting Temp: 59.4°C
+             GC Content: 68.1%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 2 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGCGGG -3'
+                 Length: 23 n.t.
+   Wallace Melting Temp: 78°C
+SantaLucia Melting Temp: 61.2°C
+             GC Content: 69.5%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 2 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGCGGGA -3'
+                 Length: 24 n.t.
+   Wallace Melting Temp: 80°C
+SantaLucia Melting Temp: 62.2°C
+             GC Content: 66.6%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+        Primer Sequence: 5'- TTACTGGCCGGACTCGAGGCGGGAG -3'
+                 Length: 25 n.t.
+   Wallace Melting Temp: 84°C
+SantaLucia Melting Temp: 62.3°C
+             GC Content: 68.0%
+               GC Clamp: YES
+       Homodimerization: NO
+ Homopolymer Run Length: 3 n.t.
+       Forms Hairpin(s): NO
+----------------------------------------------------------------------
