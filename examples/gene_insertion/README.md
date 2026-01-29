@@ -18,3 +18,6 @@ The example was generated using the input files `data/gene_example.fasta` and
 The outputs demonstrate visualization of cut site locations using both linear and
 circular plasmid maps, restriction enzyme selection, and user-specified primer 
 generation for gene insertion.
+
+### Screenshot of Example SVG Circular Plasmid Map
+<img width="989" height="734" alt="Image" src="https://github.com/user-attachments/assets/a8961121-3e26-4b7e-a90b-876a6c915f44" />
