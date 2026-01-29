@@ -61,6 +61,13 @@ primer-designer is a C++ program for designing PCR primers for common molecular 
 **Output:**
 - Reverse complement of input sequence (command line output)
 
+## Example Output
+
+### Example circular plasmid map output from the gene insertion workflow
+<img width="989" height="734" alt="Image" src="https://github.com/user-attachments/assets/32064e83-cbd3-4b33-a4d2-17c33c5b9ef9" />
+
+### Example list of viable forward primers output from the gene insertion workflow
+<img width="1250" height="898" alt="Image" src="https://github.com/user-attachments/assets/f608967c-e1bd-4db0-a005-8b3e529a4edd" />
 
 ## Getting Started
 
