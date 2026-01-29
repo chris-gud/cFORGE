@@ -3,45 +3,51 @@ Open-source C++ command-line tool for designing PCR primers for gene cloning, si
 
 ## Description
 
-primer-designer is a C++ program for designing PCR primers for common molecular biology workflows, including gene cloning, site-directed mutagenesis, and insertion of genes into plasmid vectors. The program operates entirely locally and parses standard FASTA sequence files along with JSON-formatted restriction enzyme libraries. Primer candidates are generated and filtered using standard design constraints, including length, melting temperature (calculated using both the Wallace rule and the SantaLucia (2004) nearest-neighbor model), GC content, GC clamps, and assessments of secondary structure such as hairpins and primer dimerization. For gene insertion workflows, the program supports restriction-enzyme-based strategies, allows user-specified tags, protease sites, linkers, and spacers, and produces linear restriction maps in text format and circular plasmid map graphics in SVG format. All functionality runs locally and completes in under half a second on modern hardware (e.g. Apple Silicon).
+primer-designer is a C++ program for designing PCR primers for common molecular biology workflows, including gene cloning, site-directed mutagenesis, and insertion of genes into plasmid vectors. The program parses standard FASTA sequence files along with JSON-formatted restriction enzyme libraries. Primer candidates are generated and filtered using standard design constraints, including length, melting temperature (calculated using both the Wallace rule and the SantaLucia (2004) nearest-neighbor model), GC content, GC clamps, and assessments of secondary structure such as hairpins and primer dimerization. 
+
+For site-directed mutagenesis by PCR, the program supports standard HGVS-notated mutations and produces text files containing viable mutagenic primers. 
+
+For gene insertion workflows, the program supports restriction-enzyme-based strategies, and allows user-specified tags, protease sites, start/stop codons, linkers, and spacers. It produces linear restriction maps in text format and circular plasmid map graphics in SVG format along with text files containing viable primers primer for gene insertation based on user specifications. 
+
+All functionality runs locally and completes in under half a second on modern hardware (e.g. Apple Silicon).
 
 ## Supported Workflows
 
 ### A) Generate flanking primers for gene cloning
 **Input:**
-- Gene sequence (as .fasta file in data/ directory)
+- Gene sequence (as .fasta file in `data/` directory)
   
 **Output:**
-- Text file containing a list of viable forward and reverse primers for cloning (cloning_primers\<N\>.txt)
+- Text file containing a list of viable forward and reverse primers for cloning (`cloning_primers<N>.txt`)
 ---
 ### B) Generate mutagenic primers for site-directed mutagenesis by PCR
 **Input:**
-- Gene sequence (as .fasta file in data/ directory)
-- Mutation specified in HGVS notation (e.g. c.120_121insT, c.86_91del, c.345C>T, c.100_110dup) (entered interactively via command line)
+- Gene sequence (as .fasta file in `data/` directory)
+- Mutation specified in HGVS notation (e.g. `c.120_121insT`, `c.86_91del`, `c.345C>T`, `c.100_110dup`) (entered interactively via command line)
 
 **Output:**
-- Mutagenic primer pairs suitable for PCR-based mutagenesis (mutagenic_primers\<N\>.txt)
-- FASTA file of the mutated gene sequence (mutated_gene\<N\>.fasta)
+- Mutagenic primer pairs suitable for PCR-based mutagenesis (`mutagenic_primers<N>.txt`)
+- FASTA file of the mutated gene sequence (`mutated_gene<N>.fasta`)
 ---
 ### C) Generate primers for insertion of a gene into a vector
 **Input:**
-- Gene sequence (as .fasta file in data/ directory)
-- Vector sequence (as .fasta file in data/ directory)
-- Restriction enzyme JSON file (already provided as data/RE_sites1.json)
+- Gene sequence (as .fasta file in `data/` directory)
+- Vector sequence (as .fasta file in `data/` directory)
+- Restriction enzyme JSON file (already provided as `data/RE_sites1.json`)
   - If you would like to utilize a different list of restriction enzymes, use my repo restriction_enzyme_json to generate a new json file.
 - User-specified design options (entered interactively via command line)
   - Choice of two restriction enzymes
   - Start and stop codons
-  - N- and/or C-terminal tags (Built-in support: His6, FLAG, HA, Myc. Custom tags supported)
-  - Protease cleavage sites (Built-in support: TEV, PreScission, Factor Xa, Enterokinase. Custom proteases supported)
+  - N- and/or C-terminal tags (Built-in support: `His6`, `FLAG`, `HA`, `Myc`. Custom tags supported)
+  - Protease cleavage sites (Built-in support: `TEV`, `PreScission`, `Factor Xa`, `Enterokinase`. Custom proteases supported)
   - Flexible linkers
   - Spacers (if necessary to maintain reading frame)
 
 **Output:**
-- Viable restriction enzyme combinations (viable_restriction_enzymes\<N\>.txt)
-- Linear restriction map (linear_map\<N\>.txt)
-- Circular plasmid map (circular_map\<N\>.svg)
-- Primer pairs for gene insertion (gene_insertion_primers\<N\>.txt)
+- Viable restriction enzyme combinations (`viable_restriction_enzymes<N>.txt`)
+- Linear restriction map (`linear_map<N>.txt`)
+- Circular plasmid map (`circular_map<N>.svg`)
+- Primer pairs for gene insertion (`gene_insertion_primers<N>.txt`)
 ---
 ### D) Check for dimerization between two primers
  _* For use after generating and selecting viable primers using functions A-C._
