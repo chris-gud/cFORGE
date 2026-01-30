@@ -3,7 +3,6 @@
 Gene source file: gene_example.fasta
 Mutation: c.255_256insATGC
 
-
 |---------------------------------------------|
 | Viable FORWARD Primers for PCR mutagenesis: |
 |---------------------------------------------|
