@@ -135,8 +135,7 @@ examples/
 ```
 
 ## Help
-
-
+Issues and questions can be submitted via the GitHub issue tracker.
 
 ## Author
 Chris Gudmundsen
