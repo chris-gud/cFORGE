@@ -1,0 +1,1890 @@
+[
+  {
+    "name": "AatII",
+    "notated_sequence": "GACGT/C",
+    "forward_sequence": "GACGTC",
+    "reverse_complement": "GACGTC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "Acc65I",
+    "notated_sequence": "G/GTACC",
+    "forward_sequence": "GGTACC",
+    "reverse_complement": "GGTACC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AccI",
+    "notated_sequence": "GT/MKAC",
+    "forward_sequence": "GTMKAC",
+    "reverse_complement": "GTMKAC",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "AciI",
+    "notated_sequence": "CCGC(-3/-1)",
+    "forward_sequence": "CCGC",
+    "reverse_complement": "GCGG",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "AclI",
+    "notated_sequence": "AA/CGTT",
+    "forward_sequence": "AACGTT",
+    "reverse_complement": "AACGTT",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "AcuI",
+    "notated_sequence": "CTGAAG(16/14)",
+    "forward_sequence": "CTGAAG",
+    "reverse_complement": "CTTCAG",
+    "top_cuts": [22],
+    "bottom_cuts": [20]
+  },
+  {
+    "name": "AfeI",
+    "notated_sequence": "AGC/GCT",
+    "forward_sequence": "AGCGCT",
+    "reverse_complement": "AGCGCT",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "AflII",
+    "notated_sequence": "C/TTAAG",
+    "forward_sequence": "CTTAAG",
+    "reverse_complement": "CTTAAG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AflIII",
+    "notated_sequence": "A/CRYGT",
+    "forward_sequence": "ACRYGT",
+    "reverse_complement": "ACYRGT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AgeI-HF",
+    "notated_sequence": "A/CCGGT",
+    "forward_sequence": "ACCGGT",
+    "reverse_complement": "ACCGGT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AhdI",
+    "notated_sequence": "GACNNN/NNGTC",
+    "forward_sequence": "GACNNNNNGTC",
+    "reverse_complement": "GACNNNNNGTC",
+    "top_cuts": [6],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AleI-v2",
+    "notated_sequence": "CACNN/NNGTG",
+    "forward_sequence": "CACNNNNGTG",
+    "reverse_complement": "CACNNNNGTG",
+    "top_cuts": [5],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AluI",
+    "notated_sequence": "AG/CT",
+    "forward_sequence": "AGCT",
+    "reverse_complement": "AGCT",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "AlwI",
+    "notated_sequence": "GGATC(4/5)",
+    "forward_sequence": "GGATC",
+    "reverse_complement": "GATCC",
+    "top_cuts": [9],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "AlwNI",
+    "notated_sequence": "CAGNNN/CTG",
+    "forward_sequence": "CAGNNNCTG",
+    "reverse_complement": "CAGNNNCTG",
+    "top_cuts": [6],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "ApaI",
+    "notated_sequence": "GGGCC/C",
+    "forward_sequence": "GGGCCC",
+    "reverse_complement": "GGGCCC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "ApaLI",
+    "notated_sequence": "G/TGCAC",
+    "forward_sequence": "GTGCAC",
+    "reverse_complement": "GTGCAC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "ApeKI TseI",
+    "notated_sequence": "G/CWGC",
+    "forward_sequence": "GCWGC",
+    "reverse_complement": "GC GC",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "ApoI-HF",
+    "notated_sequence": "R/AATTY",
+    "forward_sequence": "RAATTY",
+    "reverse_complement": "YAATTR",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AscI",
+    "notated_sequence": "GG/CGCGCC",
+    "forward_sequence": "GGCGCGCC",
+    "reverse_complement": "GGCGCGCC",
+    "top_cuts": [2],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "AseI",
+    "notated_sequence": "AT/TAAT",
+    "forward_sequence": "ATTAAT",
+    "reverse_complement": "ATTAAT",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "AsiSI",
+    "notated_sequence": "GCGAT/CGC",
+    "forward_sequence": "GCGATCGC",
+    "reverse_complement": "GCGATCGC",
+    "top_cuts": [5],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "AvaI BsoBI",
+    "notated_sequence": "C/YCGRG",
+    "forward_sequence": "CYCGRG",
+    "reverse_complement": "CRCGYG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "AvaII",
+    "notated_sequence": "G/GWCC",
+    "forward_sequence": "GGWCC",
+    "reverse_complement": "GG CC",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "AvrII",
+    "notated_sequence": "C/CTAGG",
+    "forward_sequence": "CCTAGG",
+    "reverse_complement": "CCTAGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BaeGI",
+    "notated_sequence": "GKGCM/C",
+    "forward_sequence": "GKGCMC",
+    "reverse_complement": "GKGCMC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "BaeI",
+    "notated_sequence": "(10/15)ACNNNNGTAYC(12/7)",
+    "forward_sequence": "ACNNNNGTAYC",
+    "reverse_complement": "GYTACNNNNGT",
+    "top_cuts": [-10, 23],
+    "bottom_cuts": [-15, 18]
+  },
+  {
+    "name": "BamHI-HF BamHI",
+    "notated_sequence": "G/GATCC",
+    "forward_sequence": "GGATCC",
+    "reverse_complement": "GGATCC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BanI",
+    "notated_sequence": "G/GYRCC",
+    "forward_sequence": "GGYRCC",
+    "reverse_complement": "GGRYCC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BanII",
+    "notated_sequence": "GRGCY/C",
+    "forward_sequence": "GRGCYC",
+    "reverse_complement": "GYGCRC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "BbsI BbsI-HF",
+    "notated_sequence": "GAAGAC(2/6)",
+    "forward_sequence": "GAAGAC",
+    "reverse_complement": "GTCTTC",
+    "top_cuts": [8],
+    "bottom_cuts": [12]
+  },
+  {
+    "name": "BbvCI",
+    "notated_sequence": "CCTCAGC(-5/-2)",
+    "forward_sequence": "CCTCAGC",
+    "reverse_complement": "GCTGAGG",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BbvI",
+    "notated_sequence": "GCAGC(8/12)",
+    "forward_sequence": "GCAGC",
+    "reverse_complement": "GCTGC",
+    "top_cuts": [13],
+    "bottom_cuts": [17]
+  },
+  {
+    "name": "BccI",
+    "notated_sequence": "CCATC(4/5)",
+    "forward_sequence": "CCATC",
+    "reverse_complement": "GATGG",
+    "top_cuts": [9],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "BceAI",
+    "notated_sequence": "ACGGC(12/14)",
+    "forward_sequence": "ACGGC",
+    "reverse_complement": "GCCGT",
+    "top_cuts": [17],
+    "bottom_cuts": [19]
+  },
+  {
+    "name": "BcgI",
+    "notated_sequence": "(10/12)CGANNNNNNTGC(12/10)",
+    "forward_sequence": "CGANNNNNNTGC",
+    "reverse_complement": "GCANNNNNNTCG",
+    "top_cuts": [-10, 24],
+    "bottom_cuts": [-12, 22]
+  },
+  {
+    "name": "BciVI",
+    "notated_sequence": "GTATCC(6/5)",
+    "forward_sequence": "GTATCC",
+    "reverse_complement": "GGATAC",
+    "top_cuts": [12],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "BclI-HF BclI",
+    "notated_sequence": "T/GATCA",
+    "forward_sequence": "TGATCA",
+    "reverse_complement": "TGATCA",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BcoDI BsmAI",
+    "notated_sequence": "GTCTC(1/5)",
+    "forward_sequence": "GTCTC",
+    "reverse_complement": "GAGAC",
+    "top_cuts": [6],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "BfaI",
+    "notated_sequence": "C/TAG",
+    "forward_sequence": "CTAG",
+    "reverse_complement": "CTAG",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "BglI",
+    "notated_sequence": "GCCNNNN/NGGC",
+    "forward_sequence": "GCCNNNNNGGC",
+    "reverse_complement": "GCCNNNNNGGC",
+    "top_cuts": [7],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BglII",
+    "notated_sequence": "A/GATCT",
+    "forward_sequence": "AGATCT",
+    "reverse_complement": "AGATCT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BlpI",
+    "notated_sequence": "GC/TNAGC",
+    "forward_sequence": "GCTNAGC",
+    "reverse_complement": "GCTNAGC",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BmgBI",
+    "notated_sequence": "CACGTC(-3/-3)",
+    "forward_sequence": "CACGTC",
+    "reverse_complement": "GACGTG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "BmrI",
+    "notated_sequence": "ACTGGG(5/4)",
+    "forward_sequence": "ACTGGG",
+    "reverse_complement": "CCCAGT",
+    "top_cuts": [11],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "BmtI-HF",
+    "notated_sequence": "GCTAG/C",
+    "forward_sequence": "GCTAGC",
+    "reverse_complement": "GCTAGC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "BpmI",
+    "notated_sequence": "CTGGAG(16/14)",
+    "forward_sequence": "CTGGAG",
+    "reverse_complement": "CTCCAG",
+    "top_cuts": [22],
+    "bottom_cuts": [20]
+  },
+  {
+    "name": "Bpu10I",
+    "notated_sequence": "CCTNAGC(-5/-2)",
+    "forward_sequence": "CCTNAGC",
+    "reverse_complement": "GCTNAGG",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BpuEI",
+    "notated_sequence": "CTTGAG(16/14)",
+    "forward_sequence": "CTTGAG",
+    "reverse_complement": "CTCAAG",
+    "top_cuts": [22],
+    "bottom_cuts": [20]
+  },
+  {
+    "name": "BsaAI",
+    "notated_sequence": "YAC/GTR",
+    "forward_sequence": "YACGTR",
+    "reverse_complement": "RACGTY",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "BsaBI",
+    "notated_sequence": "GATNN/NNATC",
+    "forward_sequence": "GATNNNNATC",
+    "reverse_complement": "GATNNNNATC",
+    "top_cuts": [5],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsaHI",
+    "notated_sequence": "GR/CGYC",
+    "forward_sequence": "GRCGYC",
+    "reverse_complement": "GYCGRC",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BsaI-HFv2",
+    "notated_sequence": "GGTCTC(1/5)",
+    "forward_sequence": "GGTCTC",
+    "reverse_complement": "GAGACC",
+    "top_cuts": [7],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "BsaJI",
+    "notated_sequence": "C/CNNGG",
+    "forward_sequence": "CCNNGG",
+    "reverse_complement": "CCNNGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsaWI",
+    "notated_sequence": "W/CCGGW",
+    "forward_sequence": "WCCGGW",
+    "reverse_complement": " CCGG ",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsaXI",
+    "notated_sequence": "(9/12)ACNNNNNCTCC(10/7)",
+    "forward_sequence": "ACNNNNNCTCC",
+    "reverse_complement": "GGAGNNNNNGT",
+    "top_cuts": [-9, 21],
+    "bottom_cuts": [-12, 18]
+  },
+  {
+    "name": "BseRI",
+    "notated_sequence": "GAGGAG(10/8)",
+    "forward_sequence": "GAGGAG",
+    "reverse_complement": "CTCCTC",
+    "top_cuts": [16],
+    "bottom_cuts": [14]
+  },
+  {
+    "name": "BseYI",
+    "notated_sequence": "CCCAGC(-5/-1)",
+    "forward_sequence": "CCCAGC",
+    "reverse_complement": "GCTGGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsgI",
+    "notated_sequence": "GTGCAG(16/14)",
+    "forward_sequence": "GTGCAG",
+    "reverse_complement": "CTGCAC",
+    "top_cuts": [22],
+    "bottom_cuts": [20]
+  },
+  {
+    "name": "BsiEI",
+    "notated_sequence": "CGRY/CG",
+    "forward_sequence": "CGRYCG",
+    "reverse_complement": "CGYRCG",
+    "top_cuts": [4],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "BsiHKAI",
+    "notated_sequence": "GWGCW/C",
+    "forward_sequence": "GWGCWC",
+    "reverse_complement": "G GC C",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "BsiWI-HF BsiWI",
+    "notated_sequence": "C/GTACG",
+    "forward_sequence": "CGTACG",
+    "reverse_complement": "CGTACG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BslI",
+    "notated_sequence": "CCNNNNN/NNGG",
+    "forward_sequence": "CCNNNNNNNGG",
+    "reverse_complement": "CCNNNNNNNGG",
+    "top_cuts": [7],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BsmFI",
+    "notated_sequence": "GGGAC(10/14)",
+    "forward_sequence": "GGGAC",
+    "reverse_complement": "GTCCC",
+    "top_cuts": [15],
+    "bottom_cuts": [19]
+  },
+  {
+    "name": "BsmI",
+    "notated_sequence": "GAATGC(1/-1)",
+    "forward_sequence": "GAATGC",
+    "reverse_complement": "GCATTC",
+    "top_cuts": [7],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Bsp1286I",
+    "notated_sequence": "GDGCH/C",
+    "forward_sequence": "GDGCHC",
+    "reverse_complement": "G GC C",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "BspCNI",
+    "notated_sequence": "CTCAG(9/7)",
+    "forward_sequence": "CTCAG",
+    "reverse_complement": "CTGAG",
+    "top_cuts": [14],
+    "bottom_cuts": [12]
+  },
+  {
+    "name": "BspDI ClaI",
+    "notated_sequence": "AT/CGAT",
+    "forward_sequence": "ATCGAT",
+    "reverse_complement": "ATCGAT",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BspEI",
+    "notated_sequence": "T/CCGGA",
+    "forward_sequence": "TCCGGA",
+    "reverse_complement": "TCCGGA",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BspHI",
+    "notated_sequence": "T/CATGA",
+    "forward_sequence": "TCATGA",
+    "reverse_complement": "TCATGA",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BspMI BfuAI",
+    "notated_sequence": "ACCTGC(4/8)",
+    "forward_sequence": "ACCTGC",
+    "reverse_complement": "GCAGGT",
+    "top_cuts": [10],
+    "bottom_cuts": [14]
+  },
+  {
+    "name": "BspQI-HF SapI BspQI",
+    "notated_sequence": "GCTCTTC(1/4)",
+    "forward_sequence": "GCTCTTC",
+    "reverse_complement": "GAAGAGC",
+    "top_cuts": [8],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "BsrBI",
+    "notated_sequence": "CCGCTC(-3/-3)",
+    "forward_sequence": "CCGCTC",
+    "reverse_complement": "GAGCGG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "BsrDI",
+    "notated_sequence": "GCAATG(2/0)",
+    "forward_sequence": "GCAATG",
+    "reverse_complement": "CATTGC",
+    "top_cuts": [8],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "BsrFI-v2",
+    "notated_sequence": "R/CCGGY",
+    "forward_sequence": "RCCGGY",
+    "reverse_complement": "YCCGGR",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsrGI-HF",
+    "notated_sequence": "T/GTACA",
+    "forward_sequence": "TGTACA",
+    "reverse_complement": "TGTACA",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BsrI",
+    "notated_sequence": "ACTGG(1/-1)",
+    "forward_sequence": "ACTGG",
+    "reverse_complement": "CCAGT",
+    "top_cuts": [6],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BssHII",
+    "notated_sequence": "G/CGCGC",
+    "forward_sequence": "GCGCGC",
+    "reverse_complement": "GCGCGC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BssSI-v2",
+    "notated_sequence": "CACGAG(-5/-1)",
+    "forward_sequence": "CACGAG",
+    "reverse_complement": "CTCGTG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BstAPI",
+    "notated_sequence": "GCANNNN/NTGC",
+    "forward_sequence": "GCANNNNNTGC",
+    "reverse_complement": "GCANNNNNTGC",
+    "top_cuts": [7],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BstBI",
+    "notated_sequence": "TT/CGAA",
+    "forward_sequence": "TTCGAA",
+    "reverse_complement": "TTCGAA",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BstEII-HF",
+    "notated_sequence": "G/GTNACC",
+    "forward_sequence": "GGTNACC",
+    "reverse_complement": "GGTNACC",
+    "top_cuts": [1],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "BstNI",
+    "notated_sequence": "CC/WGG",
+    "forward_sequence": "CCWGG",
+    "reverse_complement": "CC GG",
+    "top_cuts": [2],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "BstUI",
+    "notated_sequence": "CG/CG",
+    "forward_sequence": "CGCG",
+    "reverse_complement": "CGCG",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "BstXI",
+    "notated_sequence": "CCANNNNN/NTGG",
+    "forward_sequence": "CCANNNNNNTGG",
+    "reverse_complement": "CCANNNNNNTGG",
+    "top_cuts": [8],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "BstYI",
+    "notated_sequence": "R/GATCY",
+    "forward_sequence": "RGATCY",
+    "reverse_complement": "YGATCR",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Bsu36I",
+    "notated_sequence": "CC/TNAGG",
+    "forward_sequence": "CCTNAGG",
+    "reverse_complement": "CCTNAGG",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BtgI",
+    "notated_sequence": "C/CRYGG",
+    "forward_sequence": "CCRYGG",
+    "reverse_complement": "CCYRGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BtgZI",
+    "notated_sequence": "GCGATG(10/14)",
+    "forward_sequence": "GCGATG",
+    "reverse_complement": "CATCGC",
+    "top_cuts": [16],
+    "bottom_cuts": [20]
+  },
+  {
+    "name": "BtsCI",
+    "notated_sequence": "GGATG(2/0)",
+    "forward_sequence": "GGATG",
+    "reverse_complement": "CATCC",
+    "top_cuts": [7],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "BtsI-v2",
+    "notated_sequence": "GCAGTG(2/0)",
+    "forward_sequence": "GCAGTG",
+    "reverse_complement": "CACTGC",
+    "top_cuts": [8],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "BtsIMutI",
+    "notated_sequence": "CAGTG(2/0)",
+    "forward_sequence": "CAGTG",
+    "reverse_complement": "CACTG",
+    "top_cuts": [7],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Cac8I",
+    "notated_sequence": "GCN/NGC",
+    "forward_sequence": "GCNNGC",
+    "reverse_complement": "GCNNGC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "CspCI",
+    "notated_sequence": "(11/13)CAANNNNNGTGG(12/10)",
+    "forward_sequence": "CAANNNNNGTGG",
+    "reverse_complement": "CCACNNNNNTTG",
+    "top_cuts": [-11, 24],
+    "bottom_cuts": [-13, 22]
+  },
+  {
+    "name": "CviKI-1",
+    "notated_sequence": "RG/CY",
+    "forward_sequence": "RGCY",
+    "reverse_complement": "YGCR",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "CviQI",
+    "notated_sequence": "G/TAC",
+    "forward_sequence": "GTAC",
+    "reverse_complement": "GTAC",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "DdeI",
+    "notated_sequence": "C/TNAG",
+    "forward_sequence": "CTNAG",
+    "reverse_complement": "CTNAG",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "DpnI",
+    "notated_sequence": "GA/TC",
+    "forward_sequence": "GATC",
+    "reverse_complement": "GATC",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "DraI",
+    "notated_sequence": "TTT/AAA",
+    "forward_sequence": "TTTAAA",
+    "reverse_complement": "TTTAAA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "DraIII-HF",
+    "notated_sequence": "CACNNN/GTG",
+    "forward_sequence": "CACNNNGTG",
+    "reverse_complement": "CACNNNGTG",
+    "top_cuts": [6],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "DrdI",
+    "notated_sequence": "GACNNNN/NNGTC",
+    "forward_sequence": "GACNNNNNNGTC",
+    "reverse_complement": "GACNNNNNNGTC",
+    "top_cuts": [7],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "EaeI",
+    "notated_sequence": "Y/GGCCR",
+    "forward_sequence": "YGGCCR",
+    "reverse_complement": "RGGCCY",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "EagI-HF",
+    "notated_sequence": "C/GGCCG",
+    "forward_sequence": "CGGCCG",
+    "reverse_complement": "CGGCCG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "EarI",
+    "notated_sequence": "CTCTTC(1/4)",
+    "forward_sequence": "CTCTTC",
+    "reverse_complement": "GAAGAG",
+    "top_cuts": [7],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "EciI",
+    "notated_sequence": "GGCGGA(11/9)",
+    "forward_sequence": "GGCGGA",
+    "reverse_complement": "TCCGCC",
+    "top_cuts": [17],
+    "bottom_cuts": [15]
+  },
+  {
+    "name": "Eco53kI",
+    "notated_sequence": "GAG/CTC",
+    "forward_sequence": "GAGCTC",
+    "reverse_complement": "GAGCTC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "EcoNI",
+    "notated_sequence": "CCTNN/NNNAGG",
+    "forward_sequence": "CCTNNNNNAGG",
+    "reverse_complement": "CCTNNNNNAGG",
+    "top_cuts": [5],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "EcoO109I",
+    "notated_sequence": "RG/GNCCY",
+    "forward_sequence": "RGGNCCY",
+    "reverse_complement": "YGGNCCR",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "EcoP15I",
+    "notated_sequence": "CAGCAG(25/27)",
+    "forward_sequence": "CAGCAG",
+    "reverse_complement": "CTGCTG",
+    "top_cuts": [31],
+    "bottom_cuts": [33]
+  },
+  {
+    "name": "EcoRI-HF EcoRI",
+    "notated_sequence": "G/AATTC",
+    "forward_sequence": "GAATTC",
+    "reverse_complement": "GAATTC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "EcoRV-HF EcoRV",
+    "notated_sequence": "GAT/ATC",
+    "forward_sequence": "GATATC",
+    "reverse_complement": "GATATC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "Esp3I",
+    "notated_sequence": "CGTCTC(1/5)",
+    "forward_sequence": "CGTCTC",
+    "reverse_complement": "GAGACG",
+    "top_cuts": [7],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "FatI",
+    "notated_sequence": "/CATG",
+    "forward_sequence": "CATG",
+    "reverse_complement": "CATG",
+    "top_cuts": [0],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "FauI",
+    "notated_sequence": "CCCGC(4/6)",
+    "forward_sequence": "CCCGC",
+    "reverse_complement": "GCGGG",
+    "top_cuts": [9],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "Fnu4HI",
+    "notated_sequence": "GC/NGC",
+    "forward_sequence": "GCNGC",
+    "reverse_complement": "GCNGC",
+    "top_cuts": [2],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "FokI",
+    "notated_sequence": "GGATG(9/13)",
+    "forward_sequence": "GGATG",
+    "reverse_complement": "CATCC",
+    "top_cuts": [14],
+    "bottom_cuts": [18]
+  },
+  {
+    "name": "FseI",
+    "notated_sequence": "GGCCGG/CC",
+    "forward_sequence": "GGCCGGCC",
+    "reverse_complement": "GGCCGGCC",
+    "top_cuts": [6],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "FspI",
+    "notated_sequence": "TGC/GCA",
+    "forward_sequence": "TGCGCA",
+    "reverse_complement": "TGCGCA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HaeII",
+    "notated_sequence": "RGCGC/Y",
+    "forward_sequence": "RGCGCY",
+    "reverse_complement": "YGCGCR",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "HaeIII",
+    "notated_sequence": "GG/CC",
+    "forward_sequence": "GGCC",
+    "reverse_complement": "GGCC",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "HgaI",
+    "notated_sequence": "GACGC(5/10)",
+    "forward_sequence": "GACGC",
+    "reverse_complement": "GCGTC",
+    "top_cuts": [10],
+    "bottom_cuts": [15]
+  },
+  {
+    "name": "HhaI",
+    "notated_sequence": "GCG/C",
+    "forward_sequence": "GCGC",
+    "reverse_complement": "GCGC",
+    "top_cuts": [3],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "HincII",
+    "notated_sequence": "GTY/RAC",
+    "forward_sequence": "GTYRAC",
+    "reverse_complement": "GTRYAC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HindIII HindIII-HF",
+    "notated_sequence": "A/AGCTT",
+    "forward_sequence": "AAGCTT",
+    "reverse_complement": "AAGCTT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "HinfI",
+    "notated_sequence": "G/ANTC",
+    "forward_sequence": "GANTC",
+    "reverse_complement": "GANTC",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "HinP1I",
+    "notated_sequence": "G/CGC",
+    "forward_sequence": "GCGC",
+    "reverse_complement": "GCGC",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HpaI",
+    "notated_sequence": "GTT/AAC",
+    "forward_sequence": "GTTAAC",
+    "reverse_complement": "GTTAAC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HpaII MspI",
+    "notated_sequence": "C/CGG",
+    "forward_sequence": "CCGG",
+    "reverse_complement": "CCGG",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HphI",
+    "notated_sequence": "GGTGA(8/7)",
+    "forward_sequence": "GGTGA",
+    "reverse_complement": "TCACC",
+    "top_cuts": [13],
+    "bottom_cuts": [12]
+  },
+  {
+    "name": "Hpy166II",
+    "notated_sequence": "GTN/NAC",
+    "forward_sequence": "GTNNAC",
+    "reverse_complement": "GTNNAC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "Hpy188I",
+    "notated_sequence": "TCN/GA",
+    "forward_sequence": "TCNGA",
+    "reverse_complement": "TCNGA",
+    "top_cuts": [3],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "Hpy188III",
+    "notated_sequence": "TC/NNGA",
+    "forward_sequence": "TCNNGA",
+    "reverse_complement": "TCNNGA",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "Hpy99I",
+    "notated_sequence": "CGWCG/",
+    "forward_sequence": "CGWCG",
+    "reverse_complement": "CG CG",
+    "top_cuts": [5],
+    "bottom_cuts": [0]
+  },
+  {
+    "name": "HpyAV",
+    "notated_sequence": "CCTTC(6/5)",
+    "forward_sequence": "CCTTC",
+    "reverse_complement": "GAAGG",
+    "top_cuts": [11],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "HpyCH4III",
+    "notated_sequence": "ACN/GT",
+    "forward_sequence": "ACNGT",
+    "reverse_complement": "ACNGT",
+    "top_cuts": [3],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "HpyCH4IV",
+    "notated_sequence": "A/CGT",
+    "forward_sequence": "ACGT",
+    "reverse_complement": "ACGT",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "HpyCH4V",
+    "notated_sequence": "TG/CA",
+    "forward_sequence": "TGCA",
+    "reverse_complement": "TGCA",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "I-CeuI",
+    "notated_sequence": "TAACTATAACGGTCCTAAGGTAGCGAA(-9/-13)",
+    "forward_sequence": "TAACTATAACGGTCCTAAGGTAGCGAA",
+    "reverse_complement": "TTCGCTACCTTAGGACCGTTATAGTTA",
+    "top_cuts": [18],
+    "bottom_cuts": [14]
+  },
+  {
+    "name": "I-SceI",
+    "notated_sequence": "TAGGGATAACAGGGTAAT(-9/-13)",
+    "forward_sequence": "TAGGGATAACAGGGTAAT",
+    "reverse_complement": "ATTACCCTGTTATCCCTA",
+    "top_cuts": [9],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "KasI",
+    "notated_sequence": "G/GCGCC",
+    "forward_sequence": "GGCGCC",
+    "reverse_complement": "GGCGCC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "KpnI-HF",
+    "notated_sequence": "GGTAC/C",
+    "forward_sequence": "GGTACC",
+    "reverse_complement": "GGTACC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "MboII",
+    "notated_sequence": "GAAGA(8/7)",
+    "forward_sequence": "GAAGA",
+    "reverse_complement": "TCTTC",
+    "top_cuts": [13],
+    "bottom_cuts": [12]
+  },
+  {
+    "name": "MfeI-HF",
+    "notated_sequence": "C/AATTG",
+    "forward_sequence": "CAATTG",
+    "reverse_complement": "CAATTG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "MluCI",
+    "notated_sequence": "/AATT",
+    "forward_sequence": "AATT",
+    "reverse_complement": "AATT",
+    "top_cuts": [0],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "MluI-HF",
+    "notated_sequence": "A/CGCGT",
+    "forward_sequence": "ACGCGT",
+    "reverse_complement": "ACGCGT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "MlyI",
+    "notated_sequence": "GAGTC(5/5)",
+    "forward_sequence": "GAGTC",
+    "reverse_complement": "GACTC",
+    "top_cuts": [10],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "MmeI",
+    "notated_sequence": "TCCRAC(20/18)",
+    "forward_sequence": "TCCRAC",
+    "reverse_complement": "GTRGGA",
+    "top_cuts": [26],
+    "bottom_cuts": [24]
+  },
+  {
+    "name": "MnlI",
+    "notated_sequence": "CCTC(7/6)",
+    "forward_sequence": "CCTC",
+    "reverse_complement": "GAGG",
+    "top_cuts": [11],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "MscI",
+    "notated_sequence": "TGG/CCA",
+    "forward_sequence": "TGGCCA",
+    "reverse_complement": "TGGCCA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "MseI",
+    "notated_sequence": "T/TAA",
+    "forward_sequence": "TTAA",
+    "reverse_complement": "TTAA",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "MslI",
+    "notated_sequence": "CAYNN/NNRTG",
+    "forward_sequence": "CAYNNNNRTG",
+    "reverse_complement": "CARNNNNYTG",
+    "top_cuts": [5],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "MspA1I",
+    "notated_sequence": "CMG/CKG",
+    "forward_sequence": "CMGCKG",
+    "reverse_complement": "CMGCKG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "MspJI",
+    "notated_sequence": "CNNR(9/13)",
+    "forward_sequence": "CNNR",
+    "reverse_complement": "RNNG",
+    "top_cuts": [13],
+    "bottom_cuts": [17]
+  },
+  {
+    "name": "MwoI",
+    "notated_sequence": "GCNNNNN/NNGC",
+    "forward_sequence": "GCNNNNNNNGC",
+    "reverse_complement": "GCNNNNNNNGC",
+    "top_cuts": [7],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "NaeI",
+    "notated_sequence": "GCC/GGC",
+    "forward_sequence": "GCCGGC",
+    "reverse_complement": "GCCGGC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "NarI",
+    "notated_sequence": "GG/CGCC",
+    "forward_sequence": "GGCGCC",
+    "reverse_complement": "GGCGCC",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "Nb.BbvCI",
+    "notated_sequence": "CCTCAGC(none/-2)",
+    "forward_sequence": "CCTCAGC",
+    "reverse_complement": "GCTGAGG",
+    "top_cuts": [],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Nb.BsmI",
+    "notated_sequence": "GAATGC(none/-1)",
+    "forward_sequence": "GAATGC",
+    "reverse_complement": "GCATTC",
+    "top_cuts": [],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Nb.BsrDI",
+    "notated_sequence": "GCAATG(none/0)",
+    "forward_sequence": "GCAATG",
+    "reverse_complement": "CATTGC",
+    "top_cuts": [],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "Nb.BssSI",
+    "notated_sequence": "CACGAG(none/-1)",
+    "forward_sequence": "CACGAG",
+    "reverse_complement": "CTCGTG",
+    "top_cuts": [],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Nb.BtsI",
+    "notated_sequence": "GCAGTG(none/0)",
+    "forward_sequence": "GCAGTG",
+    "reverse_complement": "CACTGC",
+    "top_cuts": [],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "NciI",
+    "notated_sequence": "CC/SGG",
+    "forward_sequence": "CCSGG",
+    "reverse_complement": "CC GG",
+    "top_cuts": [2],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "NcoI-HF NcoI",
+    "notated_sequence": "C/CATGG",
+    "forward_sequence": "CCATGG",
+    "reverse_complement": "CCATGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "NdeI",
+    "notated_sequence": "CA/TATG",
+    "forward_sequence": "CATATG",
+    "reverse_complement": "CATATG",
+    "top_cuts": [2],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "NgoMIV",
+    "notated_sequence": "G/CCGGC",
+    "forward_sequence": "GCCGGC",
+    "reverse_complement": "GCCGGC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "NheI-HF",
+    "notated_sequence": "G/CTAGC",
+    "forward_sequence": "GCTAGC",
+    "reverse_complement": "GCTAGC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "NlaIII",
+    "notated_sequence": "CATG/",
+    "forward_sequence": "CATG",
+    "reverse_complement": "CATG",
+    "top_cuts": [4],
+    "bottom_cuts": [0]
+  },
+  {
+    "name": "NlaIV",
+    "notated_sequence": "GGN/NCC",
+    "forward_sequence": "GGNNCC",
+    "reverse_complement": "GGNNCC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "NmeAIII",
+    "notated_sequence": "GCCGAG(21/19)",
+    "forward_sequence": "GCCGAG",
+    "reverse_complement": "CTCGGC",
+    "top_cuts": [27],
+    "bottom_cuts": [25]
+  },
+  {
+    "name": "NotI-HF NotI",
+    "notated_sequence": "GC/GGCCGC",
+    "forward_sequence": "GCGGCCGC",
+    "reverse_complement": "GCGGCCGC",
+    "top_cuts": [2],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "NruI-HF",
+    "notated_sequence": "TCG/CGA",
+    "forward_sequence": "TCGCGA",
+    "reverse_complement": "TCGCGA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "NsiI NsiI-HF",
+    "notated_sequence": "ATGCA/T",
+    "forward_sequence": "ATGCAT",
+    "reverse_complement": "ATGCAT",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "NspI",
+    "notated_sequence": "RCATG/Y",
+    "forward_sequence": "RCATGY",
+    "reverse_complement": "YCATGR",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "Nt.AlwI",
+    "notated_sequence": "GGATC(4/none)",
+    "forward_sequence": "GGATC",
+    "reverse_complement": "GATCC",
+    "top_cuts": [9],
+    "bottom_cuts": []
+  },
+  {
+    "name": "Nt.BbvCI",
+    "notated_sequence": "CCTCAGC(-5/none)",
+    "forward_sequence": "CCTCAGC",
+    "reverse_complement": "GCTGAGG",
+    "top_cuts": [2],
+    "bottom_cuts": []
+  },
+  {
+    "name": "Nt.BsmAI",
+    "notated_sequence": "GTCTC(1/none)",
+    "forward_sequence": "GTCTC",
+    "reverse_complement": "GAGAC",
+    "top_cuts": [6],
+    "bottom_cuts": []
+  },
+  {
+    "name": "Nt.BspQI",
+    "notated_sequence": "GCTCTTC(1/none)",
+    "forward_sequence": "GCTCTTC",
+    "reverse_complement": "GAAGAGC",
+    "top_cuts": [8],
+    "bottom_cuts": []
+  },
+  {
+    "name": "Nt.CviPII",
+    "notated_sequence": "CCD(-3/none)",
+    "forward_sequence": "CCD",
+    "reverse_complement": " GG",
+    "top_cuts": [0],
+    "bottom_cuts": []
+  },
+  {
+    "name": "PacI",
+    "notated_sequence": "TTAAT/TAA",
+    "forward_sequence": "TTAATTAA",
+    "reverse_complement": "TTAATTAA",
+    "top_cuts": [5],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "PaqCI",
+    "notated_sequence": "CACCTGC(4/8)",
+    "forward_sequence": "CACCTGC",
+    "reverse_complement": "GCAGGTG",
+    "top_cuts": [11],
+    "bottom_cuts": [15]
+  },
+  {
+    "name": "PciI",
+    "notated_sequence": "A/CATGT",
+    "forward_sequence": "ACATGT",
+    "reverse_complement": "ACATGT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "PflMI",
+    "notated_sequence": "CCANNNN/NTGG",
+    "forward_sequence": "CCANNNNNTGG",
+    "reverse_complement": "CCANNNNNTGG",
+    "top_cuts": [7],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "PI-PspI",
+    "notated_sequence": "TGGCAAACAGCTATTATGGGTATTATGGGT(-13/-17)",
+    "forward_sequence": "TGGCAAACAGCTATTATGGGTATTATGGGT",
+    "reverse_complement": "ACCCATAATACCCATAATAGCTGTTTGCCA",
+    "top_cuts": [17],
+    "bottom_cuts": [13]
+  },
+  {
+    "name": "PI-SceI",
+    "notated_sequence": "ATCTATGTCGGGTGCGGAGAAAGAGGTAAT(-15/-19)",
+    "forward_sequence": "ATCTATGTCGGGTGCGGAGAAAGAGGTAAT",
+    "reverse_complement": "ATTACCTCTTTCTCCGCACCCGACATAGAT",
+    "top_cuts": [15],
+    "bottom_cuts": [11]
+  },
+  {
+    "name": "PleI",
+    "notated_sequence": "GAGTC(4/5)",
+    "forward_sequence": "GAGTC",
+    "reverse_complement": "GACTC",
+    "top_cuts": [9],
+    "bottom_cuts": [10]
+  },
+  {
+    "name": "PluTI",
+    "notated_sequence": "GGCGC/C",
+    "forward_sequence": "GGCGCC",
+    "reverse_complement": "GGCGCC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "PmeI",
+    "notated_sequence": "GTTT/AAAC",
+    "forward_sequence": "GTTTAAAC",
+    "reverse_complement": "GTTTAAAC",
+    "top_cuts": [4],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "PmlI",
+    "notated_sequence": "CAC/GTG",
+    "forward_sequence": "CACGTG",
+    "reverse_complement": "CACGTG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "PpuMI",
+    "notated_sequence": "RG/GWCCY",
+    "forward_sequence": "RGGWCCY",
+    "reverse_complement": "YGG CCR",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "PshAI",
+    "notated_sequence": "GACNN/NNGTC",
+    "forward_sequence": "GACNNNNGTC",
+    "reverse_complement": "GACNNNNGTC",
+    "top_cuts": [5],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "PsiI-v2",
+    "notated_sequence": "TTA/TAA",
+    "forward_sequence": "TTATAA",
+    "reverse_complement": "TTATAA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "PspGI",
+    "notated_sequence": "/CCWGG",
+    "forward_sequence": "CCWGG",
+    "reverse_complement": "CC GG",
+    "top_cuts": [0],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "PspOMI",
+    "notated_sequence": "G/GGCCC",
+    "forward_sequence": "GGGCCC",
+    "reverse_complement": "GGGCCC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "PspXI",
+    "notated_sequence": "VC/TCGAGB",
+    "forward_sequence": "VCTCGAGB",
+    "reverse_complement": " CTCGAG ",
+    "top_cuts": [2],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "PstI-HF PstI",
+    "notated_sequence": "CTGCA/G",
+    "forward_sequence": "CTGCAG",
+    "reverse_complement": "CTGCAG",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "PvuI-HF",
+    "notated_sequence": "CGAT/CG",
+    "forward_sequence": "CGATCG",
+    "reverse_complement": "CGATCG",
+    "top_cuts": [4],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "PvuII-HF PvuII",
+    "notated_sequence": "CAG/CTG",
+    "forward_sequence": "CAGCTG",
+    "reverse_complement": "CAGCTG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "RsaI",
+    "notated_sequence": "GT/AC",
+    "forward_sequence": "GTAC",
+    "reverse_complement": "GTAC",
+    "top_cuts": [2],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "RsrII",
+    "notated_sequence": "CG/GWCCG",
+    "forward_sequence": "CGGWCCG",
+    "reverse_complement": "CGG CCG",
+    "top_cuts": [2],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SacI-HF",
+    "notated_sequence": "GAGCT/C",
+    "forward_sequence": "GAGCTC",
+    "reverse_complement": "GAGCTC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "SacII",
+    "notated_sequence": "CCGC/GG",
+    "forward_sequence": "CCGCGG",
+    "reverse_complement": "CCGCGG",
+    "top_cuts": [4],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "SalI-HF SalI",
+    "notated_sequence": "G/TCGAC",
+    "forward_sequence": "GTCGAC",
+    "reverse_complement": "GTCGAC",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "Sau3AI MboI DpnII",
+    "notated_sequence": "/GATC",
+    "forward_sequence": "GATC",
+    "reverse_complement": "GATC",
+    "top_cuts": [0],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "Sau96I",
+    "notated_sequence": "G/GNCC",
+    "forward_sequence": "GGNCC",
+    "reverse_complement": "GGNCC",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "SbfI-HF",
+    "notated_sequence": "CCTGCA/GG",
+    "forward_sequence": "CCTGCAGG",
+    "reverse_complement": "CCTGCAGG",
+    "top_cuts": [6],
+    "bottom_cuts": [2]
+  },
+  {
+    "name": "ScaI-HF",
+    "notated_sequence": "AGT/ACT",
+    "forward_sequence": "AGTACT",
+    "reverse_complement": "AGTACT",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "ScrFI",
+    "notated_sequence": "CC/NGG",
+    "forward_sequence": "CCNGG",
+    "reverse_complement": "CCNGG",
+    "top_cuts": [2],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "SexAI",
+    "notated_sequence": "A/CCWGGT",
+    "forward_sequence": "ACCWGGT",
+    "reverse_complement": "ACC GGT",
+    "top_cuts": [1],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "SfaNI",
+    "notated_sequence": "GCATC(5/9)",
+    "forward_sequence": "GCATC",
+    "reverse_complement": "GATGC",
+    "top_cuts": [10],
+    "bottom_cuts": [14]
+  },
+  {
+    "name": "SfcI",
+    "notated_sequence": "C/TRYAG",
+    "forward_sequence": "CTRYAG",
+    "reverse_complement": "CTYRAG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SfiI",
+    "notated_sequence": "GGCCNNNN/NGGCC",
+    "forward_sequence": "GGCCNNNNNGGCC",
+    "reverse_complement": "GGCCNNNNNGGCC",
+    "top_cuts": [8],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SfoI",
+    "notated_sequence": "GGC/GCC",
+    "forward_sequence": "GGCGCC",
+    "reverse_complement": "GGCGCC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "SgrAI",
+    "notated_sequence": "CR/CCGGYG",
+    "forward_sequence": "CRCCGGYG",
+    "reverse_complement": "CYCCGGRG",
+    "top_cuts": [2],
+    "bottom_cuts": [6]
+  },
+  {
+    "name": "SmaI",
+    "notated_sequence": "CCC/GGG",
+    "forward_sequence": "CCCGGG",
+    "reverse_complement": "CCCGGG",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "SmlI",
+    "notated_sequence": "C/TYRAG",
+    "forward_sequence": "CTYRAG",
+    "reverse_complement": "CTRYAG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SnaBI",
+    "notated_sequence": "TAC/GTA",
+    "forward_sequence": "TACGTA",
+    "reverse_complement": "TACGTA",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "SpeI-HF",
+    "notated_sequence": "A/CTAGT",
+    "forward_sequence": "ACTAGT",
+    "reverse_complement": "ACTAGT",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SphI-HF SphI",
+    "notated_sequence": "GCATG/C",
+    "forward_sequence": "GCATGC",
+    "reverse_complement": "GCATGC",
+    "top_cuts": [5],
+    "bottom_cuts": [1]
+  },
+  {
+    "name": "SrfI",
+    "notated_sequence": "GCCC/GGGC",
+    "forward_sequence": "GCCCGGGC",
+    "reverse_complement": "GCCCGGGC",
+    "top_cuts": [4],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "SspI-HF",
+    "notated_sequence": "AAT/ATT",
+    "forward_sequence": "AATATT",
+    "reverse_complement": "AATATT",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "StuI",
+    "notated_sequence": "AGG/CCT",
+    "forward_sequence": "AGGCCT",
+    "reverse_complement": "AGGCCT",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "StyD4I",
+    "notated_sequence": "/CCNGG",
+    "forward_sequence": "CCNGG",
+    "reverse_complement": "CCNGG",
+    "top_cuts": [0],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "StyI-HF",
+    "notated_sequence": "C/CWWGG",
+    "forward_sequence": "CCWWGG",
+    "reverse_complement": "CC  GG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "SwaI",
+    "notated_sequence": "ATTT/AAAT",
+    "forward_sequence": "ATTTAAAT",
+    "reverse_complement": "ATTTAAAT",
+    "top_cuts": [4],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "TaqI-v2",
+    "notated_sequence": "T/CGA",
+    "forward_sequence": "TCGA",
+    "reverse_complement": "TCGA",
+    "top_cuts": [1],
+    "bottom_cuts": [3]
+  },
+  {
+    "name": "TfiI",
+    "notated_sequence": "G/AWTC",
+    "forward_sequence": "GAWTC",
+    "reverse_complement": "GA TC",
+    "top_cuts": [1],
+    "bottom_cuts": [4]
+  },
+  {
+    "name": "Tsp45I",
+    "notated_sequence": "/GTSAC",
+    "forward_sequence": "GTSAC",
+    "reverse_complement": "GT AC",
+    "top_cuts": [0],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "TspMI XmaI",
+    "notated_sequence": "C/CCGGG",
+    "forward_sequence": "CCCGGG",
+    "reverse_complement": "CCCGGG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "TspRI",
+    "notated_sequence": "NNCASTGNN/",
+    "forward_sequence": "NNCASTGNN",
+    "reverse_complement": "NNCA TGNN",
+    "top_cuts": [9],
+    "bottom_cuts": [0]
+  },
+  {
+    "name": "Tth111I PflFI",
+    "notated_sequence": "GACN/NNGTC",
+    "forward_sequence": "GACNNNGTC",
+    "reverse_complement": "GACNNNGTC",
+    "top_cuts": [4],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "WarmStart Nt.BstNBI Nt.BstNBI",
+    "notated_sequence": "GAGTC(4/none)",
+    "forward_sequence": "GAGTC",
+    "reverse_complement": "GACTC",
+    "top_cuts": [9],
+    "bottom_cuts": []
+  },
+  {
+    "name": "XbaI",
+    "notated_sequence": "T/CTAGA",
+    "forward_sequence": "TCTAGA",
+    "reverse_complement": "TCTAGA",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "XcmI",
+    "notated_sequence": "CCANNNNN/NNNNTGG",
+    "forward_sequence": "CCANNNNNNNNNTGG",
+    "reverse_complement": "CCANNNNNNNNNTGG",
+    "top_cuts": [8],
+    "bottom_cuts": [7]
+  },
+  {
+    "name": "XhoI PaeR7I",
+    "notated_sequence": "C/TCGAG",
+    "forward_sequence": "CTCGAG",
+    "reverse_complement": "CTCGAG",
+    "top_cuts": [1],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "XmnI",
+    "notated_sequence": "GAANN/NNTTC",
+    "forward_sequence": "GAANNNNTTC",
+    "reverse_complement": "GAANNNNTTC",
+    "top_cuts": [5],
+    "bottom_cuts": [5]
+  },
+  {
+    "name": "ZraI",
+    "notated_sequence": "GAC/GTC",
+    "forward_sequence": "GACGTC",
+    "reverse_complement": "GACGTC",
+    "top_cuts": [3],
+    "bottom_cuts": [3]
+  }
+]
