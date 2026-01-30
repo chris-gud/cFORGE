@@ -3,7 +3,6 @@
 Gene source file: gene_example.fasta
 Mutation: c.115G>T
 
-
 |---------------------------------------------|
 | Viable FORWARD Primers for PCR mutagenesis: |
 |---------------------------------------------|
