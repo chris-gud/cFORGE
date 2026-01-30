@@ -3,7 +3,6 @@
 Gene source file: gene_example.fasta
 Mutation: c.176_184del
 
-
 |---------------------------------------------|
 | Viable FORWARD Primers for PCR mutagenesis: |
 |---------------------------------------------|
