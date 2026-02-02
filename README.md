@@ -9,7 +9,7 @@ For site-directed mutagenesis by PCR, the program supports standard HGVS-notated
 
 For gene insertion workflows, the program supports restriction-enzyme-based strategies, and allows user-specified tags, protease sites, start/stop codons, linkers, and spacers. It produces linear restriction maps in text format and circular plasmid map graphics in SVG format along with text files containing viable primers primer for gene insertation based on user specifications. 
 
-All functionality runs locally and completes in under half a second on modern hardware (e.g. Apple Silicon).
+All functionality runs locally and completes in under a quarter of a second on modern hardware (e.g. Apple Silicon).
 
 ## Supported Workflows
 
